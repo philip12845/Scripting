@@ -1,2 +1,0 @@
-#!/bin/bash
-for update in ./*/ ; do (cd $update && ./updatedl.sh); done
